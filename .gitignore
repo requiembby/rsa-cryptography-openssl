@@ -1,0 +1,19 @@
+# Local RSA artifacts, keys, credentials and secrets
+*.pem
+*.key
+*.p12
+*.pfx
+*.der
+*.csr
+*.crt
+*.bin
+*.enc
+*.sig
+.env
+.env.*
+private*/
+secrets/
+output/
+tmp/
+.DS_Store
+Thumbs.db
